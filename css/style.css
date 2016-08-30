@@ -57,6 +57,7 @@ header{
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: bold;
+	transition: 0.3s;
 }
 .header-center .button:hover, .footer .button:hover {
 	background: #fff;
